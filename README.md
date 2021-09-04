@@ -1,2 +1,2 @@
 # markNine
-This is a emoji interpreter website which is designed using react JS
+This is a Music Recommendation website which is designed using react JS
