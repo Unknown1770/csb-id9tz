@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://unknown1770.github.io/csb-id9tz/static/css/main.034ea447.chunk.css",
+    "main.js": "https://unknown1770.github.io/csb-id9tz/static/js/main.301a4da1.chunk.js",
+    "main.js.map": "https://unknown1770.github.io/csb-id9tz/static/js/main.301a4da1.chunk.js.map",
+    "runtime-main.js": "https://unknown1770.github.io/csb-id9tz/static/js/runtime-main.49326fe6.js",
+    "runtime-main.js.map": "https://unknown1770.github.io/csb-id9tz/static/js/runtime-main.49326fe6.js.map",
+    "static/js/2.e3503b68.chunk.js": "https://unknown1770.github.io/csb-id9tz/static/js/2.e3503b68.chunk.js",
+    "static/js/2.e3503b68.chunk.js.map": "https://unknown1770.github.io/csb-id9tz/static/js/2.e3503b68.chunk.js.map",
+    "index.html": "https://unknown1770.github.io/csb-id9tz/index.html",
+    "static/css/main.034ea447.chunk.css.map": "https://unknown1770.github.io/csb-id9tz/static/css/main.034ea447.chunk.css.map",
+    "static/js/2.e3503b68.chunk.js.LICENSE.txt": "https://unknown1770.github.io/csb-id9tz/static/js/2.e3503b68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49326fe6.js",
+    "static/js/2.e3503b68.chunk.js",
+    "static/css/main.034ea447.chunk.css",
+    "static/js/main.301a4da1.chunk.js"
+  ]
+}
